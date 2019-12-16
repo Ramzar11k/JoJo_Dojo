@@ -1,0 +1,1713 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.10.3960
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Develop\Projects\Jojo Arena\Test1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.563218 ms
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.657728 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 1.155072 ms (FindLiveObjects: 0.082797 ms CreateObjectMapping: 0.032475 ms MarkObjects: 1.026925 ms  DeleteObjects: 0.012580 ms)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command function CmdSetIcons called on server.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is no NetworkIdentity on this object. Please add one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at Testi.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
